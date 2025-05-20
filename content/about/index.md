@@ -20,6 +20,6 @@ showAuthor = true
 layoutBackgroundHeaderSpace = false
 +++
 
-I'm a fullstack software developer based in Kenya. I'm proficient in `Python`, `Django`, `Javascript`, `Node.js`, `React`, `React Native` and `Golang`.
+I'm a fullstack software developer based in Kenya. I'm proficient in `Golang`, `Spring Boot`, `Node.js`, `Django` and `React`.
 
 Feel free to reach out.
